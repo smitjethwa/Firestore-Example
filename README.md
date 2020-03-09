@@ -1,1 +1,7 @@
-# Firestore-Example
+# Realtime Database - Example
+
+
+Database snapshot:
+
+
+
